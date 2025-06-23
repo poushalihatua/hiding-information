@@ -1,0 +1,3 @@
+### 📝 Problem Statement:
+
+The primary goal of this project is to ensure secure and undetectable communication by hiding sensitive information inside digital images. Traditional encryption makes data unreadable but still noticeable; however, steganography conceals the very existence of a message. This project uses the Least Significant Bit (LSB) method to embed secret text into image pixels without visibly altering the image. It ensures that even if someone intercepts the image, they will not know a message is hidden inside. This technique can be used in areas like digital forensics, data privacy, and secure messaging.
